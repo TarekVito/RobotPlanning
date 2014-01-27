@@ -49,7 +49,6 @@
   <ItemGroup>
     <Compile Include="Dijkstra.cs" />
     <Compile Include="dijkstraPoint.cs" />
-    <Compile Include="HashSet.cs" />
     <Compile Include="Line.cs" />
     <Compile Include="LockBitmap.cs" />
     <Compile Include="MainView.cs">
@@ -111,7 +110,6 @@
     <EmbeddedResource Include="StepViewer.resx">
       <DependentUpon>StepViewer.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="ClassDiagram1.cd" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
